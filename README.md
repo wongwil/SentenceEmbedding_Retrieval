@@ -15,7 +15,7 @@ answers to reading questions.
 
 Authors: Mihailo Grbic, Jakub Lucki, William Wong
 
-For more information, please refer to our paper.
+For more information, please refer to our [paper](https://github.com/wongwil/SentenceEmbedding_Retrieval/blob/main/paper.pdf).
 
 ## Reproduce the experiments
 To perform the experiments for the different models, run the Notebooks:
